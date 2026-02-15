@@ -21,7 +21,6 @@ I have hands-on experience in Flutter development, API integration, state manage
 **Bachelor of Computer & Communication Engineering**  
 Faculty of Engineering – Alexandria University  
 Oct 2020 – June 2025  
-GPA: **3.34 / 4.0**
 
 ### Relevant Coursework
 - Algorithms & Data Structures  
