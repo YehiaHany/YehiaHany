@@ -6,7 +6,7 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+## 👨‍💻 Summary
 
 Computer & Communication Engineering graduate with strong foundations in software engineering, mobile application development, and system design. 
 
