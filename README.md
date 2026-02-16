@@ -54,7 +54,7 @@ Developed a 3D-based system for dental teeth segmentation and measurement using 
 This project strengthened my skills in research analysis, model understanding, 3D data processing, and applying deep learning concepts to real-world medical datasets.
 
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### Full-Time Flutter Developer  
 Oct 2024 – April 2025  
