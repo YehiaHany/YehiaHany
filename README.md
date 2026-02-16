@@ -142,7 +142,7 @@ Seeking opportunities as a **Software Engineer or Mobile Application Developer**
 
 ---
 
-## 📄 Curriculum Vitae
+## 📄 Resume
 
 You can download my full CV here:
 
